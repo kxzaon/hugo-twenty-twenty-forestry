@@ -10,3 +10,5 @@ fields:
   name: description
   label: description
   description: ç'rrj'jrjrjrjr
+pages:
+- content/services/test.md
