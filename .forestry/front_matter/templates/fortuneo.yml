@@ -3,8 +3,10 @@ label: Fortuneo
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
+  name: Comment_j_ai_deteste_les_maths
+  label: test
+  description: EFBOJEfdjnJBIJBIJBIJbijfbiejijb
 - type: text
   name: description
   label: description
+  description: ç'rrj'jrjrjrjr
