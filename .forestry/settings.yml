@@ -17,6 +17,8 @@ sections:
   read_only: true
 - type: heading
   label: Blog Post
+- type: heading
+  label: Others Pages
 - type: directory
   path: content/blog
   label: Post
@@ -24,8 +26,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: Others Pages
 - type: directory
   path: content/about
   label: About
